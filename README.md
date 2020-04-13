@@ -1,4 +1,7 @@
 # E10b-3D-Terrain-and-Agent
+
+Ellie Smith- I completed this project using different nodes and cloning them.
+
 This is an exercise to explore adding 3D terrain and a simple AI agent to a scene.
 
 As usual, Fork and Clone this repository.
